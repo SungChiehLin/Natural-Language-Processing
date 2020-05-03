@@ -29,5 +29,9 @@ workflow:
 
 2. Recommend hotel with machine learning algorithms
 
+workflow:
+
+![](image/recommend%20hotel.png)
+
 3. Predicting review star ratingwith machine learning algorithms
 
