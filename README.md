@@ -23,6 +23,10 @@ Come up with three questions
 
 1. Predicting sentiment analysis with machine learning algorithms
 
+workflow:
+
+![](image/sentiment%20analysis.png)
+
 2. Recommend hotel with machine learning algorithms
 
 3. Predicting review star ratingwith machine learning algorithms
