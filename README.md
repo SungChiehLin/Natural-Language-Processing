@@ -61,10 +61,12 @@ workflow:
 ![](image/star%20rating.png)
 
 
-# Result
+# compared different model in sentiment analysis
 
-1. 
+We were testing which model is the best to predict sentiment analysis.
 
-2.
+![](image/different%20model%20of%20sentiment.png)
 
-3.
+We were testing which model is the best to predict hotel reviews star rating.
+
+![](image/different%20model%20of%20star%20rating.png)
